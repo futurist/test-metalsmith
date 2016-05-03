@@ -11,6 +11,7 @@
   "dependencies": {
     "highlighter": "0.0.3",
     "metalsmith": "^2.1.0",
+    "metalsmith-collections": "^0.7.0",
     "metalsmith-in-place": "^1.4.3",
     "metalsmith-markdown": "^0.2.1",
     "metalsmith-mithril": "^0.1.0",
